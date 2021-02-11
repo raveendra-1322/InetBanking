@@ -1,0 +1,230 @@
+2021-02-05 13:50:26,744 - InetBanking -INFO - Url opened
+2021-02-05 13:50:27,208 - InetBanking -INFO - username entered
+2021-02-05 13:50:27,512 - InetBanking -INFO - password entered
+2021-02-05 13:50:30,315 - InetBanking -INFO - clicked on submit 
+2021-02-05 13:50:30,357 - InetBanking -INFO - title matched
+2021-02-05 19:19:52,564 - InetBanking -INFO - Url opened
+2021-02-05 19:19:53,070 - InetBanking -INFO - username entered
+2021-02-05 19:19:53,545 - InetBanking -INFO - password entered
+2021-02-05 19:19:56,489 - InetBanking -INFO - clicked on submit 
+2021-02-05 19:19:56,514 - InetBanking -INFO - title matched
+2021-02-05 20:13:01,446 - InetBanking -INFO - username entered
+2021-02-05 20:13:01,650 - InetBanking -INFO - password entered
+2021-02-05 20:13:04,425 - InetBanking -INFO - clicked on submit 
+2021-02-05 20:13:04,452 - InetBanking -INFO - title matched
+2021-02-05 20:17:27,533 - InetBanking -INFO - username entered
+2021-02-05 20:17:27,717 - InetBanking -INFO - password entered
+2021-02-05 20:17:31,403 - InetBanking -INFO - clicked on submit 
+2021-02-05 20:17:31,418 - InetBanking -INFO - title matched
+2021-02-05 20:18:25,545 - InetBanking -INFO - username entered
+2021-02-05 20:18:25,638 - InetBanking -INFO - password entered
+2021-02-05 20:18:28,345 - InetBanking -INFO - clicked on submit 
+2021-02-05 20:18:28,361 - InetBanking -INFO - title matched
+2021-02-05 20:21:04,307 - InetBanking -INFO - username entered
+2021-02-05 20:21:04,563 - InetBanking -INFO - password entered
+2021-02-05 20:21:07,372 - InetBanking -INFO - clicked on submit 
+2021-02-05 20:21:07,393 - InetBanking -INFO - title matched
+2021-02-05 20:21:21,326 - InetBanking -INFO - username entered
+2021-02-05 20:21:21,501 - InetBanking -INFO - password entered
+2021-02-05 20:21:24,434 - InetBanking -INFO - clicked on submit 
+2021-02-05 20:21:24,443 - InetBanking -INFO - title matched
+2021-02-06 11:38:33,289 - InetBanking -INFO - username entered
+2021-02-06 11:38:33,494 - InetBanking -INFO - password entered
+2021-02-06 11:38:40,885 - InetBanking -INFO - clicked on submit 
+2021-02-06 11:38:40,902 - InetBanking -INFO - title matched
+2021-02-06 11:39:04,931 - InetBanking -INFO - username entered
+2021-02-06 11:39:05,022 - InetBanking -INFO - password entered
+2021-02-06 11:39:09,310 - InetBanking -INFO - clicked on submit 
+2021-02-06 11:39:09,326 - InetBanking -INFO - title matched
+2021-02-06 11:42:51,023 - InetBanking -INFO - username entered
+2021-02-06 11:42:51,240 - InetBanking -INFO - password entered
+2021-02-06 11:42:55,025 - InetBanking -INFO - clicked on submit 
+2021-02-06 11:42:55,052 - InetBanking -INFO - title matched
+2021-02-06 11:43:19,293 - InetBanking -INFO - username entered
+2021-02-06 11:43:19,369 - InetBanking -INFO - password entered
+2021-02-06 11:43:23,054 - InetBanking -INFO - clicked on submit 
+2021-02-06 11:43:23,071 - InetBanking -INFO - title matched
+2021-02-08 16:08:07,522 - InetBanking -INFO - username entered
+2021-02-08 16:08:07,776 - InetBanking -INFO - password entered
+2021-02-08 16:08:09,696 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:08:09,710 - InetBanking -INFO - title matched
+2021-02-08 16:09:42,747 - InetBanking -INFO - username entered
+2021-02-08 16:09:43,029 - InetBanking -INFO - password entered
+2021-02-08 16:10:28,563 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:10:28,573 - InetBanking -INFO - title matched
+2021-02-08 16:15:13,261 - InetBanking -INFO - username entered
+2021-02-08 16:15:13,461 - InetBanking -INFO - password entered
+2021-02-08 16:15:56,693 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:15:56,715 - InetBanking -INFO - title not matched
+2021-02-08 16:16:53,973 - InetBanking -INFO - username entered
+2021-02-08 16:16:54,069 - InetBanking -INFO - password entered
+2021-02-08 16:17:38,333 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:17:38,353 - InetBanking -INFO - title not matched
+2021-02-08 16:25:14,807 - InetBanking -INFO - username entered
+2021-02-08 16:25:14,999 - InetBanking -INFO - password entered
+2021-02-08 16:25:17,749 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:25:17,769 - InetBanking -INFO - title not matched
+2021-02-08 16:25:33,006 - InetBanking -INFO - username entered
+2021-02-08 16:25:33,104 - InetBanking -INFO - password entered
+2021-02-08 16:25:35,544 - InetBanking -INFO - clicked on submit 
+2021-02-08 16:25:35,553 - InetBanking -INFO - title not matched
+2021-02-09 12:55:26,705 - InetBanking -INFO - user name provided
+2021-02-09 12:55:26,900 - InetBanking -INFO - password provided
+2021-02-09 12:55:32,853 - InetBanking -INFO - user name provided
+2021-02-09 12:55:33,040 - InetBanking -INFO - password provided
+2021-02-09 12:55:39,058 - InetBanking -INFO - user name provided
+2021-02-09 12:55:39,231 - InetBanking -INFO - password provided
+2021-02-09 12:55:44,899 - InetBanking -INFO - user name provided
+2021-02-09 12:55:45,056 - InetBanking -INFO - password provided
+2021-02-09 12:55:51,230 - InetBanking -INFO - user name provided
+2021-02-09 12:55:51,403 - InetBanking -INFO - password provided
+2021-02-09 12:55:57,641 - InetBanking -INFO - Login passed
+2021-02-09 13:01:46,233 - InetBanking -INFO - user name provided
+2021-02-09 13:01:46,402 - InetBanking -INFO - password provided
+2021-02-09 13:01:53,253 - InetBanking -INFO - user name provided
+2021-02-09 13:01:53,450 - InetBanking -INFO - password provided
+2021-02-09 13:01:59,811 - InetBanking -INFO - user name provided
+2021-02-09 13:01:59,982 - InetBanking -INFO - password provided
+2021-02-09 13:02:06,523 - InetBanking -INFO - user name provided
+2021-02-09 13:02:06,688 - InetBanking -INFO - password provided
+2021-02-09 13:02:13,889 - InetBanking -INFO - user name provided
+2021-02-09 13:02:14,060 - InetBanking -INFO - password provided
+2021-02-09 13:02:20,128 - InetBanking -INFO - Login passed
+2021-02-09 14:01:33,728 - InetBanking -INFO - User name is provided
+2021-02-09 14:01:33,939 - InetBanking -INFO - Passsword is provided
+2021-02-09 14:01:44,148 - InetBanking -INFO - providing customer details....
+2021-02-09 14:01:56,121 - InetBanking -INFO - validation started....
+2021-02-09 14:01:56,163 - InetBanking -INFO - test case passed....
+2021-02-09 17:46:27,336 - InetBanking -INFO - username entered
+2021-02-09 17:46:27,535 - InetBanking -INFO - password entered
+2021-02-09 17:46:31,054 - InetBanking -INFO - clicked on submit 
+2021-02-09 17:46:31,073 - InetBanking -INFO - title matched
+2021-02-09 17:46:44,656 - InetBanking -INFO - User name is provided
+2021-02-09 17:46:44,865 - InetBanking -INFO - Passsword is provided
+2021-02-09 17:46:52,852 - InetBanking -INFO - providing customer details....
+2021-02-09 17:47:05,729 - InetBanking -INFO - validation started....
+2021-02-09 17:47:05,786 - InetBanking -INFO - test case passed....
+2021-02-09 19:32:35,715 - InetBanking -INFO - username entered
+2021-02-09 19:32:36,058 - InetBanking -INFO - password entered
+2021-02-09 19:32:38,257 - InetBanking -INFO - clicked on submit 
+2021-02-09 19:32:38,271 - InetBanking -INFO - title matched
+2021-02-09 19:32:52,503 - InetBanking -INFO - user name provided
+2021-02-09 19:32:52,713 - InetBanking -INFO - password provided
+2021-02-09 19:32:59,781 - InetBanking -INFO - user name provided
+2021-02-09 19:32:59,965 - InetBanking -INFO - password provided
+2021-02-09 19:33:06,775 - InetBanking -INFO - user name provided
+2021-02-09 19:33:06,954 - InetBanking -INFO - password provided
+2021-02-09 19:33:12,738 - InetBanking -INFO - user name provided
+2021-02-09 19:33:12,900 - InetBanking -INFO - password provided
+2021-02-09 19:33:18,766 - InetBanking -INFO - user name provided
+2021-02-09 19:33:18,952 - InetBanking -INFO - password provided
+2021-02-09 19:33:23,985 - InetBanking -INFO - Login passed
+2021-02-09 19:33:39,953 - InetBanking -INFO - User name is provided
+2021-02-09 19:33:40,178 - InetBanking -INFO - Passsword is provided
+2021-02-09 19:33:48,074 - InetBanking -INFO - providing customer details....
+2021-02-09 19:34:00,153 - InetBanking -INFO - validation started....
+2021-02-09 19:34:00,197 - InetBanking -INFO - test case passed....
+2021-02-09 19:35:14,749 - InetBanking -INFO - username entered
+2021-02-09 19:35:14,921 - InetBanking -INFO - password entered
+2021-02-09 19:35:16,839 - InetBanking -INFO - clicked on submit 
+2021-02-09 19:35:16,856 - InetBanking -INFO - title matched
+2021-02-09 19:35:29,747 - InetBanking -INFO - user name provided
+2021-02-09 19:35:29,988 - InetBanking -INFO - password provided
+2021-02-09 19:35:36,498 - InetBanking -INFO - user name provided
+2021-02-09 19:35:36,700 - InetBanking -INFO - password provided
+2021-02-09 19:35:42,255 - InetBanking -INFO - user name provided
+2021-02-09 19:35:42,445 - InetBanking -INFO - password provided
+2021-02-09 19:35:48,034 - InetBanking -INFO - user name provided
+2021-02-09 19:35:48,260 - InetBanking -INFO - password provided
+2021-02-09 19:35:54,139 - InetBanking -INFO - user name provided
+2021-02-09 19:35:54,344 - InetBanking -INFO - password provided
+2021-02-09 19:35:59,238 - InetBanking -INFO - Login passed
+2021-02-09 19:36:14,224 - InetBanking -INFO - User name is provided
+2021-02-09 19:36:14,396 - InetBanking -INFO - Passsword is provided
+2021-02-09 19:37:53,138 - InetBanking -INFO - providing customer details....
+2021-02-09 22:06:51,111 - InetBanking -INFO - username entered
+2021-02-09 22:06:51,302 - InetBanking -INFO - password entered
+2021-02-09 22:06:54,476 - InetBanking -INFO - clicked on submit 
+2021-02-09 22:06:54,522 - InetBanking -INFO - title matched
+2021-02-09 22:07:09,920 - InetBanking -INFO - user name provided
+2021-02-09 22:07:10,121 - InetBanking -INFO - password provided
+2021-02-09 22:07:17,982 - InetBanking -INFO - user name provided
+2021-02-09 22:07:18,245 - InetBanking -INFO - password provided
+2021-02-09 22:07:24,545 - InetBanking -INFO - user name provided
+2021-02-09 22:07:24,791 - InetBanking -INFO - password provided
+2021-02-09 22:07:32,171 - InetBanking -INFO - user name provided
+2021-02-09 22:07:32,419 - InetBanking -INFO - password provided
+2021-02-09 22:07:38,386 - InetBanking -INFO - user name provided
+2021-02-09 22:07:38,627 - InetBanking -INFO - password provided
+2021-02-09 22:07:45,785 - InetBanking -INFO - Login passed
+2021-02-09 22:08:05,724 - InetBanking -INFO - User name is provided
+2021-02-09 22:08:05,961 - InetBanking -INFO - Passsword is provided
+2021-02-10 08:01:50,141 - InetBanking -INFO - username entered
+2021-02-10 08:01:50,429 - InetBanking -INFO - password entered
+2021-02-10 08:01:53,036 - InetBanking -INFO - clicked on submit 
+2021-02-10 08:01:53,062 - InetBanking -INFO - title matched
+2021-02-10 08:02:09,168 - InetBanking -INFO - user name provided
+2021-02-10 08:02:09,409 - InetBanking -INFO - password provided
+2021-02-10 08:02:16,314 - InetBanking -INFO - user name provided
+2021-02-10 08:02:16,485 - InetBanking -INFO - password provided
+2021-02-10 08:02:22,433 - InetBanking -INFO - user name provided
+2021-02-10 08:02:22,608 - InetBanking -INFO - password provided
+2021-02-10 08:02:28,681 - InetBanking -INFO - user name provided
+2021-02-10 08:02:28,852 - InetBanking -INFO - password provided
+2021-02-10 08:02:34,896 - InetBanking -INFO - user name provided
+2021-02-10 08:02:35,111 - InetBanking -INFO - password provided
+2021-02-10 08:02:40,436 - InetBanking -INFO - Login passed
+2021-02-10 08:04:21,328 - InetBanking -INFO - username entered
+2021-02-10 08:04:21,506 - InetBanking -INFO - password entered
+2021-02-10 08:04:24,149 - InetBanking -INFO - clicked on submit 
+2021-02-10 08:04:24,167 - InetBanking -INFO - title matched
+2021-02-10 08:05:23,344 - InetBanking -INFO - user name provided
+2021-02-10 08:05:23,542 - InetBanking -INFO - password provided
+2021-02-10 08:05:30,007 - InetBanking -INFO - user name provided
+2021-02-10 08:05:30,210 - InetBanking -INFO - password provided
+2021-02-10 08:05:36,540 - InetBanking -INFO - user name provided
+2021-02-10 08:05:36,718 - InetBanking -INFO - password provided
+2021-02-10 08:05:42,350 - InetBanking -INFO - user name provided
+2021-02-10 08:05:42,555 - InetBanking -INFO - password provided
+2021-02-10 08:05:48,146 - InetBanking -INFO - user name provided
+2021-02-10 08:05:48,286 - InetBanking -INFO - password provided
+2021-02-10 08:05:53,770 - InetBanking -INFO - Login passed
+2021-02-10 08:07:25,425 - InetBanking -INFO - user name provided
+2021-02-10 08:07:25,619 - InetBanking -INFO - password provided
+2021-02-10 08:07:32,496 - InetBanking -INFO - user name provided
+2021-02-10 08:07:32,690 - InetBanking -INFO - password provided
+2021-02-10 08:07:38,180 - InetBanking -INFO - user name provided
+2021-02-10 08:07:38,350 - InetBanking -INFO - password provided
+2021-02-10 08:07:44,235 - InetBanking -INFO - user name provided
+2021-02-10 08:07:44,409 - InetBanking -INFO - password provided
+2021-02-10 08:07:49,976 - InetBanking -INFO - user name provided
+2021-02-10 08:07:50,152 - InetBanking -INFO - password provided
+2021-02-10 08:07:55,878 - InetBanking -INFO - Login passed
+2021-02-10 08:12:56,723 - InetBanking -INFO - username entered
+2021-02-10 08:12:56,905 - InetBanking -INFO - password entered
+2021-02-10 08:12:59,639 - InetBanking -INFO - clicked on submit 
+2021-02-10 08:12:59,655 - InetBanking -INFO - title matched
+2021-02-10 08:22:10,191 - InetBanking -INFO - username entered
+2021-02-10 08:22:10,386 - InetBanking -INFO - password entered
+2021-02-10 08:22:13,440 - InetBanking -INFO - clicked on submit 
+2021-02-10 08:22:13,455 - InetBanking -INFO - title matched
+2021-02-10 08:23:38,933 - InetBanking -INFO - username entered
+2021-02-10 08:23:39,101 - InetBanking -INFO - password entered
+2021-02-10 08:23:42,059 - InetBanking -INFO - clicked on submit 
+2021-02-10 08:23:42,079 - InetBanking -INFO - title matched
+2021-02-10 09:11:20,775 - InetBanking -INFO - username entered
+2021-02-10 09:11:20,974 - InetBanking -INFO - password entered
+2021-02-10 09:11:23,531 - InetBanking -INFO - clicked on submit 
+2021-02-10 09:11:23,615 - InetBanking -INFO - title matched
+2021-02-10 10:34:34,248 - InetBanking -INFO - username entered
+2021-02-10 10:34:34,388 - InetBanking -INFO - password entered
+2021-02-10 10:34:37,889 - InetBanking -INFO - clicked on submit 
+2021-02-10 10:34:37,903 - InetBanking -INFO - title matched
+2021-02-10 10:36:57,957 - InetBanking -INFO - username entered
+2021-02-10 10:36:58,097 - InetBanking -INFO - password entered
+2021-02-10 10:37:00,451 - InetBanking -INFO - clicked on submit 
+2021-02-10 10:37:00,471 - InetBanking -INFO - title matched
+2021-02-10 10:57:44,484 - InetBanking -INFO - username entered
+2021-02-10 10:57:44,650 - InetBanking -INFO - password entered
+2021-02-10 10:57:47,854 - InetBanking -INFO - clicked on submit 
+2021-02-10 10:57:47,866 - InetBanking -INFO - title matched
